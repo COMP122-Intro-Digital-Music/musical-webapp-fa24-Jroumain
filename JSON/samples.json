@@ -3,7 +3,7 @@
     "name": "Groovy",
     "file": "samples/GROOVEY.mp3",
     "bpm": "120",
-    "loop": "3m"
+    "loop": "5m"
   },
   {
     "name": "Boomstick",
@@ -15,6 +15,6 @@
     "name": "We have such sights to show you",
     "file": "samples/Hellraiser_ we have such sights to show you.mp3",
     "bpm": "120",
-    "loop": "5m"
+    "loop": "8m"
   }
 ]
