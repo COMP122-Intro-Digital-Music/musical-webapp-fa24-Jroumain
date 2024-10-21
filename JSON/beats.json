@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "bass drum",
+    "pitch": "A#3",
+    "pattern": "1101010010"
+  },
+  {
+    "name": "snare",
+    "pitch": "B3",
+    "pattern": "0010000110"
+  },
+  {
+    "name": "closed hi-hat",
+    "pitch": "F4",
+    "pattern": "1010110100"
+  },
+  {
+    "name": "cymbal",
+    "pitch": "E4",
+    "pattern": "1101011010"
+  }
+]
