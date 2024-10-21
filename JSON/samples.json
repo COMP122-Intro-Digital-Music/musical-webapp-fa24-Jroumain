@@ -1,7 +1,7 @@
 [
   {
     "name": "Groovy",
-    "file": "samples/Groovey.mp3",
+    "file": "samples/GROOVEY.mp3",
     "bpm": "120",
     "loop": "1m"
   },
@@ -13,7 +13,7 @@
   },
   {
     "name": "We have such sights to show you",
-    "file": "samples/Hellraiser_ we_have_such_sights_to_show_you.mp3",
+    "file": "samples/Hellraiser_ we have such sights to show you.mp3",
     "bpm": "120",
     "loop": "1m"
   }
