@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Groovy",
+    "file": "samples/GROOVEY.mp3",
+    "bpm": "120",
+    "loop": "5m"
+  },
+  {
+    "name": "Boomstick",
+    "file": "samples/BOOMSTICK.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "We have such sights to show you",
+    "file": "samples/Hellraiser_ we have such sights to show you.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  }
+]
